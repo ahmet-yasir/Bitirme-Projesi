@@ -1,0 +1,4 @@
+pyfim
+pandas
+requests
+scikit-learn

@@ -1,0 +1,6 @@
+quart
+pyfim
+pandas
+requests
+websockets
+scikit-learn
