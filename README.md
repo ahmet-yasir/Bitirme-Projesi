@@ -63,7 +63,7 @@ Bu proje, sağlık verilerinde mahremiyeti koruyarak merkezi olmayan makine öğ
 
 ---
 
-## ⚙️ duCBA Algoritması  (Büşra hoca repo linki ver)op1
+## ⚙️ duCBA Algoritması
 
 duCBA, istemcilerde eğitilen CBA tabanlı modelleri merkezi sunucuda birleştirerek nihai global modeli oluşturur.
 
